@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prasanth-cloud
-- 👀 I’m interested in cloud computing 
-- 🌱 I’m currently learning Google cloud 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Prasanth Bugga
+- 👀 I’m interested in cloud computing and Data
+- 🌱 I’m currently exploring Data, Cloud
+- 💞️ I’m looking to collaborate on doing projects on creating ETL pipelines to get the valuable insights for the business...
 - 📫 How to reach me ...
 
 <!---
