@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prasanth Bugga
-- 👀 I’m interested in cloud computing and Data
-- 🌱 I’m currently exploring Data, Cloud
-- 💞️ I’m looking to collaborate on doing projects on creating ETL pipelines to get the valuable insights for the business...
+- 👀 I’m interested in cloud computing and Devops
+- 🌱 I’m currently exploring Devops, Cloud
+- 💞️ I’m looking to collaborate on doing projects on creating CICD pipelines.
 - 📫 How to reach me ...
 
 <!---
